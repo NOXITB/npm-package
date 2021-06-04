@@ -1,0 +1,34 @@
+{
+  "name": "dlist-api",
+  "version": "0.0.1-alpha",
+  "description": "A official vcodes.xyz api.",
+  "main": "dlist.js",
+  "bin": "dlist.js",
+  "scripts": {
+    "test": "!vote"
+  },
+  "repository": {
+    "type": "git",
+    "url": "x"
+  },
+  "keywords": [
+    "bot",
+    "list",
+    "discord",
+    "dbl",
+    "vcodes",
+    "api",
+    "bots",
+    "vote",
+    "check",
+    "vote",
+    "control",
+    "force",
+    "vote"
+  ],
+  "author": "Noxitb",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
